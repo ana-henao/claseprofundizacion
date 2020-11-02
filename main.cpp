@@ -1,0 +1,12 @@
+#include <iostream>
+/*Reciba una cadena de caracteres, y separe los numeros del retso de carcateres, generando una cadena
+solo con los caracteres y otra solo con numeros de la cadena original.
+Partendo de la caena de numeros, eparalos en dos cifras y sumarlas e imprimir el resultado.
+En caso de no poderse divir exactamente en dos cifras, poner ceros a la izquierda del primer numero*/
+using namespace std;
+
+int main()
+{
+    cout << "Hello World!" << endl;
+    return 0;
+}
